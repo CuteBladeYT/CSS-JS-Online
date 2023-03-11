@@ -12,9 +12,14 @@
 	--corner-radius-br: 0px;
 }
 
+/* Background */
+body {
+	background-color: transparent!important;
+}
+
 /* Chat container */
 #root > div > div.Layout-sc-1xcs6mc-0.htmBdw > div > div > section {
-	background: rgba(0, 0, 0, 0.7);
+	background: rgba(0, 0, 0, 0.8)!important;
 	border: 3px var(--accent-color) solid;
 	padding: 10px;
 	margin: 0px;
