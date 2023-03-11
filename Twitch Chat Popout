@@ -1,0 +1,15 @@
+@import(https://raw.githubusercontent.com/CuteBladeYT/CSS-JS-Online/raw/Twitch%20Chat%20Popout%20RAW);
+
+:root {
+	--accent-color: #a6e3a1;
+	--sender-name-color: #fab387;
+	--text-color: #cdd6f4;
+	--timestamp-color: #7f849c;
+	--badge-color: 	#cba6f7;
+	
+	--corner-radius: 10px;
+	--corner-radius-tl: 0px;
+	--corner-radius-tr: 0px;
+	--corner-radius-bl: 0px;
+	--corner-radius-br: 0px;
+}
